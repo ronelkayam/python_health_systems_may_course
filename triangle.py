@@ -1,0 +1,8 @@
+rib = int(input("please enter rib"))
+height = int(input("please enter height"))
+area = ((rib * height) / 2)
+print("triangle area is:",((rib * height) / 2))
+print(f"rib length = {rib}")
+print(f"height length:{height}")
+print(f"triangle area is:{((rib * height) / 2)}")
+print(f"triangle area is:{area}")
